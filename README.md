@@ -3,14 +3,9 @@ Ftech CP/DS/Algo course - C++, Python, Java, Math Tutorials
 
 # Table Of Contents
 - [Study Resources](#Resources)
-- [Course Plan] (#Plan)
+- [Course Plan](#Plan)
 - [HWs](#paragraph2)
 - [Tasks](#Tasks)
-<details open>
-<summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
-</details>
     1. [Sub paragraph](#subparagraph2)
 
 ## Study Resources<a name="Resources"></a>
@@ -19,9 +14,11 @@ Well, you asked for it!
 - [Analysis of Algorithms -CLRS](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
 - [Excellent Book for Problem Solving kleinberg-tardos](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
 - [Java Book !](http://enos.itcollege.ee/~jpoial/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf)
+- [Cracking the coding interview](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)
 - Geeks for Geeks
 - Leetcode Tutorials
 - Wikipedia
+- Link to be added for previously asked interesting interview questions
 
 ## Course Plan<a name ="Plan"></a>
 - **Divide and conquer** : As the name suggests “Divide and Conquer”. Divide the problems into
@@ -38,12 +35,20 @@ Greedy algorithms Being greedy works! ... but only for certain problems.(Link to
 - [ ] Collaborators / students
 - [ ] Hw problem implementation branch
 - [ ] Time complexity analysis slide and questions
-- [ ] Content to be added links / slides / standard courses 
-- Prof Ragesh jaiswal CSE101
-- IIT delh Java book
-- CLRS Pdf link
-- Kamaruchi Gate book 
-- Cracking the coding interviews
-- Klienberg Tordos
+- [x] Content to be added links / slides / standard courses 
+- [x] Prof Ragesh jaiswal CSE101
+- [x] IIT delh Java book
+- [x] CLRS Pdf link
+- [x] Cracking the coding interviews
+- [x] Klienberg Tordos
 - [ ] How to solve recurrsion standard approaches
 - [ ] Recurion problems - Mathematics 
+
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
+## Licene
+GNU Open Source
