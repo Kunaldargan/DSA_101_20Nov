@@ -23,13 +23,10 @@ Ftech CP/DS/Algo course - C++, Python, Java, Math Tutorials
 ## Course Plan<a name ="Plan"></a>
 - **Divide and conquer** : As the name suggests “Divide and Conquer”. Divide the problems into
 smaller sub-problems, solve them and combine their solution.(Link to be added)
-
 - **Backtracking**: Incrementally attempt to build solution and “backtrack” to explore all
 possibilities.(Link to be added)
-
--**Dynamic Programming** Divide the problem into overlapping subproblems of various sizes.
+- **Dynamic Programming** Divide the problem into overlapping subproblems of various sizes.
 Use solution of smaller sub-problems to build solution of larger ones.(Link to be added)
-
 - **Graph Algorithms** : Model a problem as a graph problem and use known graph algorithms.
 Greedy algorithms Being greedy works! ... but only for certain problems.(Link to be added)
 - *LeetCode and HackerRank* standard questions
